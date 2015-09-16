@@ -98,7 +98,7 @@ namespace DigitalSignature
                 client.FromXmlString(textBox11.Text);
                 var signedBytes = Convert.FromBase64String(textBox8.Text);
                 byte[] fingerprintBytes = Encoding.UTF8.GetBytes(textBox10.Text);
-                MessageBox.Show(client.VerifyData(fingerprintBytes, new SHA256CryptoServiceProvider(), signedBytes).ToString());
+                //MessageBox.Show(client.VerifyData(fingerprintBytes, new SHA256CryptoServiceProvider(), signedBytes).ToString());
                 if (client.VerifyData(fingerprintBytes, new SHA256CryptoServiceProvider(), signedBytes) == true)
                 {
                     label7.Visible = true;
