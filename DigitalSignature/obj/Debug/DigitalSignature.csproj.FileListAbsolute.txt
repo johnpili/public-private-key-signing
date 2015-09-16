@@ -1,0 +1,14 @@
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\bin\Debug\DigitalSignature.exe.config
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\bin\Debug\DigitalSignature.exe
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\bin\Debug\DigitalSignature.pdb
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.csprojResolveAssemblyReference.cache
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.Form1.resources
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.Properties.Resources.resources
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.csproj.GenerateResource.Cache
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.exe
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.pdb
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\DigitalSignature\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\digital-signature-in-motion\DigitalSignature\bin\Debug\DigitalSignature.exe.config
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\digital-signature-in-motion\DigitalSignature\obj\Debug\DigitalSignature.exe
+C:\Visual Studio Project\ProjectSolution\DigitalSignature\digital-signature-in-motion\DigitalSignature\obj\Debug\DigitalSignature.pdb
